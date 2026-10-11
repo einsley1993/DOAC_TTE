@@ -1,2 +1,2 @@
 # DOAC_TTE
-For DOACs TTE paper
+SAS code for my paper "Comparative effectiveness and safety of rivaroxaban, apixaban, and edoxaban in patients with atrial fibrillation: a target trial emulation".
